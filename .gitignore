@@ -4,3 +4,7 @@ dist/
 /.tw-patch/
 /.env.development.local
 .DS_Store
+# Environment variables
+.env
+.env.*
+!.env.example
